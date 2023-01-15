@@ -1,0 +1,11 @@
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/pages/Homepage.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/base/CommonAPI.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/pages/SLCommunityPage.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/utility/ConnectDB.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/utility/Utility.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/reporting/ExtentTestManager.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/pages/LoginPage.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/utility/ExcelReader.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/reporting/ExtentManager.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/pages/SLHomePage.java
+/home/ameur/workspace_qaway/automation-framework-qaway-final-test/src/main/java/org/saucedemo/reporting/TestLogger.java

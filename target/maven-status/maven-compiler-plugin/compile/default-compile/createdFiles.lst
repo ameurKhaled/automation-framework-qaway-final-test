@@ -1,0 +1,11 @@
+org/saucedemo/pages/Homepage.class
+org/saucedemo/base/CommonAPI.class
+org/saucedemo/reporting/ExtentTestManager.class
+org/saucedemo/utility/ExcelReader.class
+org/saucedemo/pages/SLCommunityPage.class
+org/saucedemo/pages/LoginPage.class
+org/saucedemo/utility/Utility.class
+org/saucedemo/pages/SLHomePage.class
+org/saucedemo/reporting/ExtentManager.class
+org/saucedemo/utility/ConnectDB.class
+org/saucedemo/reporting/TestLogger.class

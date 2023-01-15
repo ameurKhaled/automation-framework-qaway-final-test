@@ -1,0 +1,110 @@
+20:40:46.536 [main] INFO  org.saucedemo.TestPurchase - click cart success
+20:40:46.743 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+20:40:46.743 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+20:40:47.014 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+20:40:47.342 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+22:20:52.791 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+22:20:52.910 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+22:20:52.941 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+22:20:53.010 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+22:20:53.297 [main] INFO  org.saucedemo.TestPurchase - click cart success
+22:20:53.338 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+22:20:53.338 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+22:20:56.621 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+22:20:57.093 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+22:43:49.064 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+22:43:49.278 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+22:43:49.309 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+22:43:49.389 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+22:43:49.455 [main] INFO  org.saucedemo.TestPurchase - click cart success
+22:43:49.455 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+22:43:49.455 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+22:43:49.551 [main] INFO  org.saucedemo.pages.CartPage - click on continue shopping  button success
+22:43:49.551 [main] INFO  org.saucedemo.TestPurchase - click continue shopping button success
+22:43:49.583 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+22:43:53.483 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+22:43:54.593 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+00:01:26.117 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+00:01:26.927 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+00:01:26.959 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+00:01:27.265 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+00:01:27.331 [main] INFO  org.saucedemo.TestPurchase - click cart success
+00:01:27.331 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+00:01:27.331 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:01:27.414 [main] INFO  org.saucedemo.pages.CartPage - click on check button success
+00:01:27.414 [main] INFO  org.saucedemo.TestPurchase - click checkout button success
+00:01:27.414 [main] INFO  org.saucedemo.TestPurchase - check user land on checkout information page
+00:01:27.414 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:01:32.634 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+00:01:33.021 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+00:04:52.578 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+00:04:52.676 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+00:04:52.704 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+00:04:52.783 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+00:04:52.846 [main] INFO  org.saucedemo.TestPurchase - click cart success
+00:04:52.847 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+00:04:52.847 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:04:52.934 [main] INFO  org.saucedemo.pages.CartPage - click on check button success
+00:04:52.934 [main] INFO  org.saucedemo.TestPurchase - click checkout button success
+00:04:52.934 [main] INFO  org.saucedemo.TestPurchase - check user land on checkout information page
+00:04:52.935 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:04:55.244 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+00:04:55.244 [main] INFO  org.saucedemo.base.CommonAPI - test failed
+00:04:57.198 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot
+00:04:57.555 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+00:10:00.269 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+00:10:00.720 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+00:10:00.922 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+00:10:01.041 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+00:10:01.157 [main] INFO  org.saucedemo.TestPurchase - click cart success
+00:10:01.157 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+00:10:01.157 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:10:03.836 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+00:10:03.837 [main] INFO  org.saucedemo.base.CommonAPI - test failed
+00:10:05.432 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot
+00:10:05.941 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+00:18:40.772 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+00:18:40.850 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+00:18:40.910 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+00:18:40.982 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+00:18:41.050 [main] INFO  org.saucedemo.TestPurchase - click cart success
+00:18:41.164 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+00:18:41.164 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:18:41.260 [main] INFO  org.saucedemo.pages.CartPage - click on check button success
+00:18:41.260 [main] INFO  org.saucedemo.TestPurchase - click checkout button success
+00:18:41.260 [main] INFO  org.saucedemo.TestPurchase - check user land on checkout information page
+00:18:41.261 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:18:44.050 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+00:18:44.463 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+00:23:37.656 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+00:23:37.706 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+00:23:37.741 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+00:23:37.824 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+00:23:37.894 [main] INFO  org.saucedemo.TestPurchase - click cart success
+00:23:37.894 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+00:23:37.894 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:23:37.993 [main] INFO  org.saucedemo.pages.CartPage - click on check button success
+00:23:37.993 [main] INFO  org.saucedemo.TestPurchase - click checkout button success
+00:23:37.993 [main] INFO  org.saucedemo.TestPurchase - check user land on checkout information page
+00:23:37.994 [main] INFO  org.saucedemo.pages.CheckoutInformationPage - checkout information header display success
+00:23:38.364 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+00:23:38.865 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+00:24:16.806 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+00:24:16.856 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+00:24:16.887 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+00:24:16.957 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+00:24:17.036 [main] INFO  org.saucedemo.TestPurchase - click cart success
+00:24:17.036 [main] INFO  org.saucedemo.TestPurchase - check user land on cart page
+00:24:17.036 [main] INFO  org.saucedemo.pages.CartPage - cart header display success
+00:24:17.125 [main] INFO  org.saucedemo.pages.CartPage - click on check button success
+00:24:17.125 [main] INFO  org.saucedemo.TestPurchase - click checkout button success
+00:24:17.126 [main] INFO  org.saucedemo.TestPurchase - check user land on checkout information page
+00:24:17.126 [main] INFO  org.saucedemo.pages.CheckoutInformationPage - checkout information header display success
+00:24:17.386 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+00:24:17.742 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+13:19:13.272 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+13:19:13.364 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+13:19:13.395 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+13:19:13.474 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+13:19:20.418 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+13:19:21.474 [main] INFO  org.saucedemo.base.CommonAPI - browser close success

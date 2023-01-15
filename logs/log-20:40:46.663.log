@@ -1,0 +1,123 @@
+15:56:08.344 [main] INFO  org.saucedemo.TestInitialPage - page title validation success
+15:56:08.347 [main] INFO  org.saucedemo.pages.LoginPage - checking username field is displayed ...
+15:56:08.402 [main] INFO  org.saucedemo.TestInitialPage - username field is displayed
+15:56:08.402 [main] INFO  org.saucedemo.pages.LoginPage - checking password field is displayed ...
+15:56:08.445 [main] INFO  org.saucedemo.TestInitialPage - password field is displayed
+15:56:08.445 [main] INFO  org.saucedemo.pages.LoginPage - checking login button is displayed ...
+15:56:08.477 [main] INFO  org.saucedemo.TestInitialPage - login button is displayed
+15:56:08.752 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:56:08.957 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:56:12.841 [main] INFO  org.saucedemo.TestLogin - page title validation success
+15:56:12.938 [main] INFO  org.saucedemo.TestLogin - enter username success
+15:56:12.995 [main] INFO  org.saucedemo.TestLogin - enter password success
+15:56:13.059 [main] INFO  org.saucedemo.TestLogin - login button click success
+15:56:13.087 [main] INFO  org.saucedemo.TestLogin - error message: Epic sadface: Password is required
+15:56:13.236 [main] INFO  org.saucedemo.TestLogin - error message validation success
+15:56:13.274 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:56:13.544 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:56:16.167 [main] INFO  org.saucedemo.TestLogin - page title validation success
+15:56:16.228 [main] INFO  org.saucedemo.TestLogin - enter username success
+15:56:16.313 [main] INFO  org.saucedemo.TestLogin - enter password success
+15:56:16.380 [main] INFO  org.saucedemo.TestLogin - login button click success
+15:56:16.408 [main] INFO  org.saucedemo.TestLogin - error message: Epic sadface: Username is required
+15:56:16.516 [main] INFO  org.saucedemo.TestLogin - error message validation success
+15:56:16.543 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:56:16.806 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:56:19.601 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+15:56:19.636 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+15:56:19.958 [main] INFO  org.saucedemo.pages.Homepage - price low to high select success
+15:56:20.069 [main] INFO  org.saucedemo.TestFilter - list of prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+15:56:20.140 [main] INFO  org.saucedemo.TestFilter - items sorted success
+15:56:20.169 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:56:20.390 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:56:23.095 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+15:56:23.131 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+15:56:23.154 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+15:56:23.225 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+15:56:23.253 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:56:23.477 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:59:35.544 [main] INFO  org.saucedemo.TestInitialPage - page title validation success
+15:59:35.547 [main] INFO  org.saucedemo.pages.LoginPage - checking username field is displayed ...
+15:59:35.591 [main] INFO  org.saucedemo.TestInitialPage - username field is displayed
+15:59:35.591 [main] INFO  org.saucedemo.pages.LoginPage - checking password field is displayed ...
+15:59:35.628 [main] INFO  org.saucedemo.TestInitialPage - password field is displayed
+15:59:35.628 [main] INFO  org.saucedemo.pages.LoginPage - checking login button is displayed ...
+15:59:35.662 [main] INFO  org.saucedemo.TestInitialPage - login button is displayed
+15:59:35.869 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:59:36.124 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:59:38.590 [main] INFO  org.saucedemo.TestLogin - page title validation success
+15:59:38.683 [main] INFO  org.saucedemo.TestLogin - enter username success
+15:59:38.743 [main] INFO  org.saucedemo.TestLogin - enter password success
+15:59:38.814 [main] INFO  org.saucedemo.TestLogin - login button click success
+15:59:38.847 [main] INFO  org.saucedemo.TestLogin - error message: Epic sadface: Password is required
+15:59:39.006 [main] INFO  org.saucedemo.TestLogin - error message validation success
+15:59:39.038 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:59:39.214 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:59:41.729 [main] INFO  org.saucedemo.TestLogin - page title validation success
+15:59:41.793 [main] INFO  org.saucedemo.TestLogin - enter username success
+15:59:41.882 [main] INFO  org.saucedemo.TestLogin - enter password success
+15:59:41.951 [main] INFO  org.saucedemo.TestLogin - login button click success
+15:59:41.984 [main] INFO  org.saucedemo.TestLogin - error message: Epic sadface: Username is required
+15:59:42.130 [main] INFO  org.saucedemo.TestLogin - error message validation success
+15:59:42.160 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:59:42.425 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:59:45.166 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+15:59:45.202 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+15:59:45.503 [main] INFO  org.saucedemo.pages.Homepage - price low to high select success
+15:59:45.620 [main] INFO  org.saucedemo.TestFilter - list of prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+15:59:45.690 [main] INFO  org.saucedemo.TestFilter - items sorted success
+15:59:45.729 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:59:45.990 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+15:59:48.584 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+15:59:48.627 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+15:59:48.651 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+15:59:48.724 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+15:59:48.751 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+15:59:48.954 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+17:30:34.332 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+17:30:34.375 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+17:30:34.409 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+17:30:34.523 [main] INFO  org.saucedemo.TestPurchase - item removed success
+17:30:34.791 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+17:30:35.016 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+17:32:01.473 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+17:32:01.520 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+17:32:01.546 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+17:32:01.615 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+17:32:01.892 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+17:32:02.118 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+17:32:04.681 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+17:32:04.718 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+17:32:04.742 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+17:32:04.842 [main] INFO  org.saucedemo.TestPurchase - item removed success
+17:32:04.955 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+17:32:05.458 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+19:26:27.310 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+19:26:27.353 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+19:26:27.380 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+19:26:27.458 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+19:26:27.525 [main] INFO  org.saucedemo.TestPurchase - click cart success
+19:26:27.983 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+19:26:29.345 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+20:14:51.790 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+20:14:51.837 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+20:14:51.865 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+20:14:51.956 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+20:14:52.017 [main] INFO  org.saucedemo.TestPurchase - click cart success
+20:14:52.017 [main] INFO  org.saucedemo.pages.CartPage - main header display success
+20:14:52.397 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+20:14:52.397 [main] INFO  org.saucedemo.base.CommonAPI - test failed
+20:14:53.604 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot
+20:14:53.776 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+20:20:32.006 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+20:20:32.057 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+20:20:32.083 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+20:20:32.156 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
+20:20:32.224 [main] INFO  org.saucedemo.TestPurchase - click cart success
+20:20:32.224 [main] INFO  org.saucedemo.pages.CartPage - main header display success
+20:20:32.490 [main] INFO  org.saucedemo.base.CommonAPI - take screenshot for failure true
+20:20:32.720 [main] INFO  org.saucedemo.base.CommonAPI - browser close success
+20:40:46.303 [main] INFO  org.saucedemo.pages.LoginPage - login process success
+20:40:46.348 [main] INFO  org.saucedemo.pages.Homepage - products header is displayed
+20:40:46.374 [main] INFO  org.saucedemo.TestPurchase - rgba(226, 35, 26, 1)
+20:40:46.453 [main] INFO  org.saucedemo.TestPurchase - rgba(71, 76, 85, 1)
